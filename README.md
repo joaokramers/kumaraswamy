@@ -1,0 +1,2 @@
+# kumaraswamy
+Distribuição de Kumaraswamy
